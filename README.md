@@ -3,9 +3,6 @@ Cartify: End-to-End Data Management & Analytics Platform
 
 This project was developed as part of the Data Management module at Warwick Business School (MSc Business Analytics, 2024–2025). It simulates the design and deployment of a comprehensive data product for Cartify, a hypothetical e-commerce platform aiming to improve customer engagement and marketing efficiency through data-driven decision making.
 
-# Project Scope
-The end-to-end solution includes:
-
 # Business Understanding & Objective Definition:
 Identified Cartify’s core challenge—high churn and lack of marketing insight—leading to the need for structured data analysis to improve campaign effectiveness and customer retention.
 
